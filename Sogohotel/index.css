@@ -1,0 +1,97 @@
+
+
+#form{
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    background-image: url(image/bg3.jpg);
+    box-shadow:  10px 10px 20px rgb(129, 127, 127);
+}
+
+#top{
+    width: 100%;
+    height: 200px;
+}
+
+b{
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 30px;
+}
+
+.ct1{
+    width: 450px;
+    height: 50px;
+    float: left;
+    padding-top: 30px;
+
+}
+.ct2{
+    width: 450px;
+    height: 50px;
+    float: left;
+    padding-top: 30px;
+}
+
+#ct{
+    width: 100%;
+    height: 400px;
+}
+
+#ct h6{
+    text-align: center;
+    color: white;
+}
+#ct h1{
+    text-align: center;
+    color: white;
+}
+
+.mo{
+    width: 800px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mo div{
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mo div img{
+    width: 40px;
+    height: 40px;
+}
+#tb{
+    margin-left: auto;
+    margin-right: auto;
+}
+.sl{
+    width: 800px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    background:white;
+    box-shadow:  7px 7px 50px rgb(129, 127, 127);
+    border-radius: 5px 5px 5px 5px
+}
+.chon{
+    width: 60px;
+    height: 21px;
+}
+
+#btn{
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: rgb(238, 163, 52);
+    border-radius: 15px 15px 15px 15px;
+    border: 0px;
+}
